@@ -56,4 +56,4 @@ This project was built as part of a team (forked from the original team reposito
 
 - **GUI Development:** Built and researched the graphical interface for tagging faces in images.
 - **Facial Recognition Logic:** Implemented facial recognition within the image upload pipeline.
-- **Web Scraping:** Built the web scraping component used to pull yearbook images from external sources.
+- **Web Scraping:** Built the web scraping components used to pull images from external websites.
