@@ -49,3 +49,11 @@ This repository contains the implementation of an image face tagging tool. The t
 - [x] Testing
 - [x] Installation Steps
 
+
+## My Contributions
+
+This project was built as part of a team (forked from the original team repository, developed by Omar ElWalily, Ebram Thabet, Andrew Wassem, and Mohamed ElAshkar). My specific contributions were:
+
+- **GUI Development:** Built and researched the graphical interface for tagging faces in images.
+- **Facial Recognition Logic:** Implemented facial recognition within the image upload pipeline.
+- **Web Scraping:** Built the web scraping component used to pull yearbook images from external sources.
